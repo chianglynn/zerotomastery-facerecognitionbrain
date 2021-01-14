@@ -1,3 +1,11 @@
+# zerotomastery-facerecognitionbrain
+
+// The Complete Web Developer in 2021: Zero to Mastery
+
+// Chapter 23: FINAL PROJECT: SmartBrain Front-End - #251 ~ 260
+
+// Checked in: Chorme 87
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
